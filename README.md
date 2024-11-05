@@ -9,8 +9,8 @@ Before you start you need to :
 - Create Fleak workflow (to get `FLEAK_ENDPOINT`)
 
 And then:
-- run `cp .env.local.example .env.local`
 - edit `.env.local` and set values for `FLEAK_API_KEY`, `FLEAK_ENDPOINT`
+- run `cp .env.local.example .env.local`
 
 ## Getting Started
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
